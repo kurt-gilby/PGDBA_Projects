@@ -68,3 +68,4 @@ might not have affected the lotsize area
    pip install openpyxl
 3. The input data file is in ".\data\input\innercity.xlsx"
 4. Run the script file "example.py" in python environment, or better still run the jupyter notebook "example.ipynb", this file has detailed explanation of the approach taken for the project and the callouts.
+5. The script creates an images folder to hold all the charts/plots created and also an output folder under data for intermediated dataset which is optional.
