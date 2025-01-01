@@ -53,5 +53,12 @@ This project also includes a stock market analysis, highlighting stock performan
 ## 🚀 Instructions for Running the Code
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Default Prediction & Stock Market Risk Analysis.git
-   cd Default Prediction & Stock Market Risk Analysis
+   git clone https://github.com/yourusername/project-repo-name.git
+   cd project-repo-name
+2. **Install the requirements.txt**
+   ```bash
+   pip install -r .\requirements.txt
+   pip install openpyxl
+3. The input data file is in ".\data"
+4. Run the script file "example.py" in python environment, or better still run the jupyter notebook "example.ipynb", this file has detailed explanation of the approach taken for the project and the callouts.
+5. The script creates an images folder to hold all the charts/plots.
