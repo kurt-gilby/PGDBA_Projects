@@ -1,0 +1,28 @@
+,Age,Gender,Profession,Marital_status,Education,No_of_Dependents,Personal_loan,House_loan,Partner_working,Salary,Partner_salary,Total_salary,Price,Make,Age_Bin
+87,51,Male,Salaried,Married,Post Graduate,3,No,No,Yes,92600,60900.0,153500,55000,SUV,50-53
+57,54,Male,Business,Married,Post Graduate,2,No,No,Yes,93900,60200.0,154100,57000,SUV,54-57
+42,52,Female,Salaried,Married,Post Graduate,3,No,No,Yes,94900,60300.0,155200,55000,SUV,50-53
+117,47,Male,Salaried,Married,Graduate,2,No,No,Yes,86100,70800.0,156900,58000,SUV,46-49
+131,46,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,97700,60000.0,157700,58000,SUV,46-49
+277,41,Male,Salaried,Married,Post Graduate,3,No,No,Yes,87000,70900.0,157900,61000,SUV,38-41
+2,53,Female,Salaried,Married,Post Graduate,3,No,No,Yes,97300,60700.0,158000,57000,SUV,50-53
+329,39,Female,Salaried,Married,Post Graduate,3,No,No,Yes,87500,70700.0,158200,68000,SUV,38-41
+130,46,Female,Salaried,Married,Post Graduate,3,No,No,Yes,98900,60000.0,158900,56000,SUV,46-49
+19,49,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,98400,60600.0,159000,54000,SUV,46-49
+99,50,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,98600,60500.0,159100,56000,SUV,50-53
+31,46,Male,Business,Married,Graduate,2,Yes,No,Yes,91100,70000.0,161100,66000,SUV,46-49
+111,48,Female,Business,Married,Graduate,3,No,No,Yes,90300,70800.0,161100,62000,SUV,46-49
+76,52,Male,Salaried,Married,Graduate,2,No,No,Yes,91000,70800.0,161800,60000,SUV,50-53
+103,49,Male,Business,Married,Graduate,4,No,No,Yes,92300,70000.0,162300,67000,SUV,46-49
+18,49,Female,Business,Married,Post Graduate,3,No,No,Yes,92600,70300.0,162900,58000,SUV,46-49
+75,52,Female,Salaried,Married,Post Graduate,4,No,No,Yes,93900,70800.0,164700,68000,SUV,50-53
+30,46,Male,Salaried,Married,Post Graduate,4,No,No,Yes,94900,70700.0,165600,67000,SUV,46-49
+17,49,Female,Salaried,Married,Post Graduate,4,No,No,Yes,95100,70600.0,165700,64000,SUV,46-49
+1,53,Female,Salaried,Married,Post Graduate,4,Yes,No,Yes,95500,70300.0,165800,61000,SUV,50-53
+116,47,Male,Business,Married,Graduate,4,Yes,No,Yes,86000,80500.0,166500,69000,SUV,46-49
+41,53,Female,Salaried,Married,Post Graduate,4,No,No,Yes,96600,70300.0,166900,66000,SUV,50-53
+29,46,Female,Salaried,Married,Post Graduate,2,No,No,Yes,98300,70700.0,169000,61000,SUV,46-49
+98,50,Female,Salaried,Married,Post Graduate,4,Yes,No,Yes,99300,70000.0,169300,66000,SUV,50-53
+0,53,Male,Business,Married,Post Graduate,4,No,No,Yes,99300,70700.0,170000,61000,SUV,50-53
+49,52,Female,Business,Married,Post Graduate,4,No,No,Yes,90300,80100.0,170400,69000,SUV,50-53
+56,51,Female,Salaried,Married,Post Graduate,2,No,No,Yes,90600,80400.0,171000,69000,SUV,50-53
