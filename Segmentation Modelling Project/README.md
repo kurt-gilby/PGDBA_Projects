@@ -28,7 +28,6 @@ The project applies clustering techniques such as Hierarchical and K-Means Clust
   - NumPy, Pandas (Data manipulation and analysis)
   - Scikit-learn (Machine Learning)
   - Matplotlib, Seaborn (Visualization)
-  - NLTK, WordCloud (Text analysis)
   - Statsmodels (Statistical computations)
 
 ---
