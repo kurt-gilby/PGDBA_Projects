@@ -62,3 +62,9 @@ might not have affected the lotsize area
    ```bash
    git clone https://github.com/yourusername/project-repo-name.git
    cd project-repo-name
+2. **Install the requirements.txt**
+   ```bash
+   pip install -r .\requirements.txt
+   pip install openpyxl
+3. The input data file is in ".\data\input\innercity.xlsx"
+4. Run the scrip file "example.py" in python environment, or better still run the jupyter notebook "example.ipynb", this file has detailed explanation of the approach taken for the project and the callouts.
